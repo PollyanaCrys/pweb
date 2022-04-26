@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    font-size: 1rem;
+    border: 5px solid rgb(6, 6, 6);
+    background-color: rgb(217, 248, 248);
+    height: 100%;
+}
+
+p{
+color: rgb(250, 137, 188);
+width: 500px;
+border: 1px solid rgb(221, 131, 146);
+
+ }
+
+   
+     
